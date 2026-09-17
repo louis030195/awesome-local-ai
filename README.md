@@ -87,7 +87,7 @@ Your contributions are always welcome!
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
-- [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 local screen + microphone recording with OCR, audio transcription, and semantic search. Works fully offline with Ollama, llama.cpp, or any local LLM. MCP server for Claude integration. MIT licensed.
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Captures screen text and audio history locally for searchable recall and MCP access by AI assistants; source-available under the Screenpipe Commercial License, with local or cloud processing depending on configuration.
 
 ## Agents
 
